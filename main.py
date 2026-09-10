@@ -1,6 +1,6 @@
 
 import json
-# a comment to configure github
+# comment to configure github
 import mlflow
 import tempfile
 import os
